@@ -11,7 +11,10 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        //action bar hide onli this screen
+        //action bar hide only this screen
         getSupportActionBar().hide();
+
+
+
     }
 }
